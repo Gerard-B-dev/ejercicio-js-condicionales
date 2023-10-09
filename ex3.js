@@ -4,7 +4,7 @@
 3. BONUS: ¿Cual es el valón mínimo entero que resuelve este ejercicio?
 */
 
-let numero = 0;
+let numero = 500;
 
 if (numero > 0) {
   console.log("El número es mayor de 0.");
@@ -17,3 +17,5 @@ if (numero > 100) {
 if (numero > 500) {
   console.log("El número es mayor de 500.");
 }
+
+// Respuesta ej 3. --> El número entero mínimo seria 501, porque este número es mayor que 0, que 100 y que 500 respectivamente, de esta manera podemos mostrar los 3 mensajes de las 3 condiciones porque en todas se cumplen.

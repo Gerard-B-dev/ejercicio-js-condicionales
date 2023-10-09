@@ -9,3 +9,5 @@ if (numero < 2) {
 } else {
   console.log("Cuack!");
 }
+
+// Respuesta: Va a mostrar el mensaje "Cuack!" porque la condición del if no se cumple (false) y pasa directamente al else, como la condición del if 3 < 2 no se cumple, se evalua como false.
